@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#Alive{
+  color: rgb(15, 189, 15)
+}
+#Dead{
+  color: red
+}
+#unknown{
+  color: gray
+}
